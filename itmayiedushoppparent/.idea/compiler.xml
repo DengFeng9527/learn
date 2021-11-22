@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itmayiedu-shopp-api-member" />
+        <module name="itmayiedu_shoppweixin" />
+        <module name="itmayiedushoppcommon" />
+        <module name="itmayiedushoppeurekaserver" />
+        <module name="itmayiedushoppmember" />
+        <module name="itmayiedushoppmessage" />
+        <module name="itmayiedushopppcweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itmayiedu-shop-member" target="1.7" />
+      <module name="itmayiedu-shop-member-api" target="1.7" />
+      <module name="itmayiedushopapi" target="1.7" />
+      <module name="itmayiedushopcommon" target="1.8" />
+      <module name="itmayiedushopeurekaserver" target="1.8" />
+      <module name="itmayiedushopmember" target="1.8" />
+      <module name="itmayiedushoppapi" target="1.8" />
+      <module name="itmayiedushoppmemberapi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
