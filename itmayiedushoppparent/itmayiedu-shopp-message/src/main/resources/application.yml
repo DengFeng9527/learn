@@ -29,7 +29,7 @@ spring:
   mail:
     host: smtp.163.com
     username: 18768866992@163.com
-    password: BRHYMCVEVKEDSOLN
+    password: xxxxxxxxxx
     enable:  true
     smtp:
       auth: true
